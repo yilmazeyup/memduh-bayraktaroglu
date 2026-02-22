@@ -170,7 +170,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
             <p>&copy; {new Date().getFullYear()} Memduh Bayraktaroğlu Danışmanlık. Tüm hakları saklıdır.</p>
-            <p className="mt-2 md:mt-0">Design: Corporate Armor Strategy</p>
+            <p className="mt-2 md:mt-0">Design: Manaliza Agency</p>
           </div>
         </div>
       </footer>
